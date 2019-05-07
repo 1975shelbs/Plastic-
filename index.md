@@ -12,4 +12,3 @@ Plastics are inexpensive and durable, and as a result levels of plastic producti
 - As of 2018, about 380 million tons of plastic is produced worldwide each year.
 
 _plastic pollution in Ghana, 2018_
-[https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Plastic_Pollution_in_Ghana.jpg/1200px-Plastic_Pollution_in_Ghana.jpg](src)
