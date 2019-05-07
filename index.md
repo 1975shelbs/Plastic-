@@ -13,3 +13,4 @@ Plastic pollution can afflict land, waterways and oceans.
 - As of 2018, about 380 million tons of plastic is produced worldwide each year.
 
 _plastic pollution in Ghana, 2018_
+[https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Plastic_Pollution_in_Ghana.jpg/1200px-Plastic_Pollution_in_Ghana.jpg]
