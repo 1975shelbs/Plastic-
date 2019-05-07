@@ -1,32 +1,21 @@
-## Welcome to GitHub Pages
+## Plastic Pollution
 
-You can use the [editor on GitHub](https://github.com/1975shelbs/test/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Plastic pollution has been a growing and non-stop issue manifesting itself all over the world in oceans, shores, landfills, and even ocean life.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The main cause: human consumption and production.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Plastics are inexpensive and durable, and as a result levels of plastic production by humans are high.[4] However, the chemical structure of most plastics renders them resistant to many natural processes of degradation and as a result they are slow to degrade.[5] Together, these two factors have led to a high prominence of plastic pollution in the environment.
 
-```markdown
-Syntax highlighted code block
+Plastic pollution can afflict land, waterways and oceans.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+- It is estimated that 1.1 to 8.8 million metric tons (MT) of plastic waste enters the ocean from costal communities each year.
+- As of 2018, about 380 million tons of plastic is produced worldwide each year.
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+![https://en.wikipedia.org/wiki/File:Plastic_Pollution_in_Ghana.jpg](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
