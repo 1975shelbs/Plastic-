@@ -5,7 +5,7 @@ Plastic pollution has been a growing and non-stop issue manifesting itself all o
 The main cause: human consumption and production.
 
 
-Plastics are inexpensive and durable, and as a result levels of plastic production by humans are high. However, the chemical structure of most plastics renders them resistant to many natural processes of degradation and as a result they are slow to degrade.[5] Together, these two factors have led to a high prominence of plastic pollution in the environment.
+Plastics are inexpensive and durable, and as a result levels of plastic production by humans are high. However, the chemical structure of most plastics renders them resistant to many natural processes of degradation and as a result they are slow to degrade. Together, these two factors have led to a high prominence of plastic pollution in the environment.
 
 Plastic pollution can afflict land, waterways and oceans.
 
